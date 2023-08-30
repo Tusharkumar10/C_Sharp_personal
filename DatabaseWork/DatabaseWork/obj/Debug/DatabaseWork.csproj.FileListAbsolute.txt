@@ -1,0 +1,12 @@
+C:\Users\student\source\repos\DatabaseWork\DatabaseWork\bin\Debug\DatabaseWork.exe.config
+C:\Users\student\source\repos\DatabaseWork\DatabaseWork\bin\Debug\DatabaseWork.exe
+C:\Users\student\source\repos\DatabaseWork\DatabaseWork\bin\Debug\DatabaseWork.pdb
+C:\Users\student\source\repos\DatabaseWork\DatabaseWork\obj\Debug\DatabaseWork.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\DatabaseWork\DatabaseWork\obj\Debug\DatabaseWork.Properties.Resources.resources
+C:\Users\student\source\repos\DatabaseWork\DatabaseWork\obj\Debug\DatabaseWork.csproj.GenerateResource.cache
+C:\Users\student\source\repos\DatabaseWork\DatabaseWork\obj\Debug\DatabaseWork.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\DatabaseWork\DatabaseWork\obj\Debug\DatabaseWork.exe
+C:\Users\student\source\repos\DatabaseWork\DatabaseWork\obj\Debug\DatabaseWork.pdb
+C:\Users\student\source\repos\DatabaseWork\DatabaseWork\obj\Debug\DatabaseWork.Form2.resources
+C:\Users\student\source\repos\DatabaseWork\DatabaseWork\obj\Debug\DatabaseWork.Form1.resources
+C:\Users\student\source\repos\DatabaseWork\DatabaseWork\obj\Debug\DatabaseWork.Login_Form.resources
